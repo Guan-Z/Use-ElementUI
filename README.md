@@ -4,4 +4,4 @@ Element官方文档已经足够详细的展示了如何使用组件；但是具�
 
 该学习项目做成单页应用程序SPA
 
-可以直接打开 GitHub Pages 地址查看效果：
+可以直接打开 GitHub Pages 地址查看效果：https://guan-z.github.io/Use-ElementUI/
